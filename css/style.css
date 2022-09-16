@@ -1,0 +1,223 @@
+body {
+    background-color: rgb(2, 146, 2);
+    margin: 0;
+    padding: 200px 0 0 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+p {
+    text-align: center;
+    font-size: 30px;
+    color: brown;
+}
+ul {
+    color: brown;
+}
+h1 {
+    font-family: "Sofia", sans-serif;
+    color: yellow;
+    font-size: 100px;
+    text-align: center;
+}
+h2 {
+    font-family: "Audiowide", sans-serif;
+    color: orange;
+    font-size: 50px;
+    text-align: center;
+}
+h3 {
+    font-family: "Trirong", serif;
+    color: green;
+    font-size: 30px;
+    text-align: center;
+}
+hr {
+    border-top: dashed brown 12px;
+    border-bottom: none;
+    width: 25%;
+}
+ul li{
+    list-style-type: none;
+    font-size: 30px;   
+}
+.form {
+    text-align: center;
+    width: 25%;
+    margin: 0 37.5% 0 37.5%;
+}
+.top {
+    background-color: rgb(2, 146, 2);
+    margin-bottom: 289px;
+}
+.middle {
+    background-color: rgb(109, 192, 109);
+}
+.bottom {
+    background-color: rgb(5, 130, 5);
+    padding: 20px;
+    border-top: 5px solid brown;
+}
+.languages {
+    background-color: lightgreen;
+    width: 50%;
+    margin: 0 25% 0 25%;
+}
+.leadership {
+    background-color: lightgreen;
+    width: 75%;
+    margin: 0 12.5% 0 12.5%;
+}
+.skills {
+    background-color: lightgreen;
+    width: 60%;
+    margin: 0 20% 0 20%;
+}
+.col {
+    display: inline-block;
+}
+.left {
+    float: left;
+    width: 50%;
+    text-align: center;
+}
+.right {
+    width: 50%;
+    text-align: center;
+}
+.left2 {
+    float: left;
+    width: 30%;
+    text-align: center;
+}
+.right2 {
+    width: 70%;
+    text-align: center;
+}
+.button {
+    display: inline-block;
+    text-align: center;
+    border: solid green 10px;
+    border-radius: 100%;
+    background-color: rgb(109, 192, 109);
+    width: 15%;
+    margin: 10px 42.5% 0 42.5%;
+}
+.img1 {
+    border: solid yellow;
+    border-radius: 100%;
+    display: block;
+    margin: 0 auto 0 auto;
+}
+.img2 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+}
+.img3 {
+    position: absolute;
+    width: 45%;
+    height: auto;
+    margin-left: 10px;
+    margin-top: 30px;
+}
+.img4 {
+    width: 300px;
+    height: auto;
+}
+.img5 {
+    width: 500px;
+    height: auto;
+}
+.img6 {
+    width: 200px;
+    height: auto;
+}
+.img7 {
+    position: absolute;
+    width: 250px;
+}
+.img8 {
+    position: absolute;
+    width: 250px;
+    margin-left: 180px;
+}
+.img9 {
+    position: absolute;
+    width: 250px;
+    margin-left: 360px;
+}
+.img10 {
+    position: absolute;
+    width: 250px;
+    margin-left: 430px;
+}
+.img11 {
+    position: absolute;
+    width: 250px;
+    margin-left: 850px;
+}
+.img12 {
+    position: absolute;
+    width: 250px;
+    margin-left: 920px;
+}
+.img13 {
+    position: absolute;
+    width: 250px;
+    margin-left: 1100px;
+}
+.img14 {
+    position: absolute;
+    width: 250px;
+    margin-left: 1280px;
+}
+.img15 {
+    position: absolute;
+    margin-top: 53px;
+}
+.img16 {
+    position: absolute;
+    width: 450px;
+    margin-left: 150px;
+}
+.img17 {
+    position: absolute;
+    width: 250px;
+    margin-left: 1050px;
+}
+.img18 {
+    position: absolute;
+}
+.img19 {
+    position: absolute;
+    margin-left: 1000px;
+}
+.img20 {
+    position: absolute;
+    width: 300px;
+    margin-top: 300px;
+    margin-left: 200px;
+}
+.img21 {
+    position: absolute;
+    width: 300px;
+    margin-top: 75px;
+    margin-left: 1218px;
+}
+.img22 {
+    position: absolute;
+    width: 300px;
+    margin-top: 75px;
+}
+.img23 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+}
+a:link, a:visited {
+    color: yellow;
+    text-decoration: none;
+}
+a:hover, a:active {
+    color: red;
+    text-decoration: underline;
+}
